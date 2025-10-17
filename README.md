@@ -1,2 +1,3 @@
-# productbysyed
-A webspace for Product Management related stuff
+# Product by Syed
+A webspace for Product Management related stuff.
+
