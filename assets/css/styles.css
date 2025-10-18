@@ -1,0 +1,19 @@
+/* Custom Bootstrap overrides: deep blue & teal gradient, cleaner cards, etc. */
+.bg-gradient-primary {
+  background: linear-gradient(90deg, #232d4d 0%, #36cfc9 100%) !important;
+}
+.navbar, .footer, .bg-dark {
+  background-color: #232d4d !important;
+}
+body {
+  background-color: #f8fafc;
+}
+.btn-primary, .btn-light {
+  border-radius: 2rem;
+}
+a {
+  color: #118ab2;
+}
+a:hover {
+  color: #0f4c81;
+}
